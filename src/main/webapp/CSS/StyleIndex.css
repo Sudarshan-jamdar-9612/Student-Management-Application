@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+*{
+	box-sizing: border-box;
+	margin: 0;
+	border-radius: 10px;
+}
+
+legend{
+	font-size: 1.5em;
+}
+.form{
+	padding: 10px;
+	padding-top: 10%;
+	font-size: 1.2em;
+}
+input{
+	border-radius: 5px;
+	padding: 5px;
+}
+input[type="submit"],[type="reset"]{
+	width: 100%;
+	padding: 10px 20px;
+	border: none;
+	color : white;
+	background-color: #318CE7;
+}
+.tab{
+	
+	border-collapse: collapse;
+	border: 1px solid;
+	padding: 12px 20px;
+	text-align: center;
+	margin: 5% 15%;
+}
+#nov{
+	text-decoration: none;
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+}
+
+.slider{
+	padding: 10px;
+	padding-top: 5%;
+}
