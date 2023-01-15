@@ -11,7 +11,7 @@
 ### Home pg :
 ![Home](https://user-images.githubusercontent.com/75301824/212544306-077ea754-e8a2-4b1f-8314-ff461529c642.PNG)
 ![Home](https://user-images.githubusercontent.com/75301824/212544424-7854387e-6782-4dc9-aea3-544daf0e0038.PNG)
-### Add Student Record , if data does exist in database return with msg Data Exist
+### Add Student Record , if data does not exist in database return with msg Data Inserted else Data Exist!
 ![image](https://user-images.githubusercontent.com/75301824/212544680-3d5c26e1-3303-4b15-b979-08782ff0a94c.png)
 ![image](https://user-images.githubusercontent.com/75301824/212544708-6c6be090-e241-4eeb-afe5-435533c1288a.png)
 ### Search Student Record ,if in case record not present
